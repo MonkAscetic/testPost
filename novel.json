@@ -1,0 +1,263 @@
+{
+    "www.cdxs.cc": {
+        "chapterPath": "/html/body/div/div[6]/div",
+        "checkUrl": "https://www.cdxs.cc/25/94212/",
+        "contentPath": "/html/body/div/div[4]/div/div[3]"
+    },
+    "www.shuquge.com": {
+        "chapterPath": "/html/body/div[5]",
+        "checkUrl": "https://www.shuquge.com/txt/14639/index.html",
+        "contentPath": "/html/body/div[4]/div[2]/div[2]"
+    },
+    "www.zym888.com": {
+        "chapterPath": "/html/body/div[5]",
+        "checkUrl": "http://www.zym888.com/xiaoshuo/0/393/",
+        "contentPath": "/html/body/div[4]/div[2]/div[2]"
+    },
+    "www.asxs.com": {
+        "chapterPath": "/html/body/div[2]/div[2]/dl/dd[3]",
+        "checkUrl": "https://www.asxs.com/view/95497/",
+        "contentPath": "/html/body/div[3]/div[2]/dl/dd[5]"
+    },
+    "hananke.com": {
+        "chapterPath": "/html/body/div[2]/section/div[3]/div",
+        "checkUrl": "https://hananke.com/book/15438/",
+        "contentPath": "/html/body/div[2]/main/section"
+    },
+    "m.tushumi.com": {
+        "chapterPath": "/html/body/div[2]/ul[2]",
+        "checkUrl": "http://m.tushumi.com/shu/140100/",
+        "contentPath": "/html/body/div[5]"
+    },
+    "www.biquhh.com": {
+        "chapterPath": "/html/body/div/div[5]/div",
+        "checkUrl": "https://www.biquhh.com/book/1889/",
+        "contentPath": "/html/body/div/div[4]/div/div[4]"
+    },
+    "www.biquxsw.com": {
+        "chapterPath": "/html/body/div[3]/div",
+        "checkUrl": "https://www.biquxsw.com/0_147/",
+        "contentPath": "/html/body/div[1]/div[2]/div/div[4]"
+    },
+    "book.qidian.com": {
+        "chapterPath": "/html/body/div/div[6]/div[3]/div[2]/div[2]/ul",
+        "checkUrl": "https://book.qidian.com/info/1032555938/#Catalog",
+        "contentPath": "/html/body/div[2]/div[3]/div[2]/div[1]/div/div/div[2]"
+    },
+    "m.kubij.cc": {
+        "chapterPath": "/html/body/div[2]/ul[2]",
+        "checkUrl": "https://m.kubij.cc/331926/",
+        "contentPath": "/html/body/div[5]"
+    },
+    "www.dafengdagengren.com": {
+        "checkUrl": "https://www.dafengdagengren.com/11_11454/",
+        "chapterPath": "/html/body/div[3]/div[2]/div/div[2]/ul",
+        "titlePath": "/html/body/div[5]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]"
+    },
+    "www.xbiquge.so": {
+        "checkUrl": "https://www.xbiquge.so/book/55075/",
+        "chapterPath": "/html/body/div[3]/div",
+        "titlePath": "/html/body/div[2]/div[2]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[2]/div/div[4]"
+    },
+    "www.biqupai.com": {
+        "checkUrl": "https://www.biqupai.com/96_96441/",
+        "chapterPath": "/html/body/div/div[4]/div",
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[4]"
+    },
+    "www.kubiji.org": {
+        "checkUrl": "https://www.kubiji.org/146686/",
+        "chapterPath": "/html/body/div[2]/div[4]/div[6]",
+        "titlePath": "/html/body/div[3]/div[2]",
+        "contentPath": "/html/body/div[3]/div[6]"
+    },
+    "www.silukew.com": {
+        "checkUrl": "https://www.silukew.com/ny58392/",
+        "chapterPath": "/html/body/div/div[4]/div",
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[4]"
+    },
+    "www.bige7.com": {
+        "chapterPath": "/html/body/div[5]",
+        "checkUrl": "https://www.bige7.com/book/2749/",
+        "contentPath": "/html/body/div[4]/div[3]/div[3]"
+    },
+    "www.23xstxt.com": {
+        "checkUrl": "https://www.23xstxt.com/book/93406/93406777/",
+        "chapterPath": "/html/body/div[5]",
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[2]"
+    },
+    "www.qiushuge.net": {
+        "checkUrl": "http://www.qiushuge.net/conghongyuekaishi/",
+        "chapterPath": "/html/body/div[4]",
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]"
+    },
+    "www.lstxt.cc": {
+        "checkUrl": "https://www.lstxt.cc/ebook/6267.html",
+        "chapterPath": "/html/body/div[4]",
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[2]"
+    },
+    "www.shukeba.com": {
+        "checkUrl": "https://www.shukeba.com/115786/",
+        "chapterPath": "/html/body/div[4]/dl[2]",
+        "titlePath": "/html/body/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[1]/div[1]"
+    },
+    "www.qu-la.com": {
+        "checkUrl": "http://www.qu-la.com/booktxt/58791935116/",
+        "chapterPath": "/html/body/div/div[2]/div/div[3]/ul[2]",
+        "titlePath": "/html/body/div/div[1]/div[2]/div[1]/h1",
+        "contentPath": "/html/body/div/div[1]/div[2]/div[2]"
+    },
+    "www.doupo321.com": {
+        "checkUrl": "http://www.doupo321.com/doupocangqiongxujitiancantudou/",
+        "chapterPath": "/html/body/div[1]/div[2]/div[1]/div[3]/div[2]",
+        "titlePath": "/html/body/div/div/div[2]/h1",
+        "contentPath": "/html/body/div/div/div[4]"
+    },
+    "www.vipxs.la": {
+        "checkUrl": "https://www.vipxs.la/53_53969/",
+        "chapterPath": "/html/body/div/div[7]/div/dl",
+        "titlePath": "/html/body/div/div[5]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div[1]/div[2]/div[3]"
+    },
+    "www.ranwen.la": {
+        "checkUrl": "https://www.ranwen.la/files/article/110/110322/",
+        "chapterPath": "/html/body/div/div[6]",
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[5]"
+    },
+    "www.yxlmdl.net": {
+        "checkUrl": "https://www.yxlmdl.net/book/83360558/",
+        "chapterPath": "/html/body/div/div[2]/div/div[3]/ul[2]",
+        "titlePath": "/html/body/div/div[1]/div[2]/div[1]",
+        "contentPath": "/html/body/div/div[1]/div[2]/div[2]"
+    },
+    "www.biduoxs.com": {
+        "checkUrl": "https://www.biduoxs.com/biquge/58_58688/",
+        "chapterPath": "/html/body/div[1]/div[6]/div/dl/dd",
+        "titlePath": "/html/body/div[1]/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div/div[4]"
+    },
+    "www.cv148.com": {
+        "checkUrl": "https://www.cv148.com/67_67421/",
+        "chapterPath": "/html/body/div/div[6]/div/dl",
+        "titlePath": "/html/body/div[1]/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[5]/div/div[3]"
+    },
+    "m.lewen01.com": {
+        "checkUrl": "https://m.lewen01.com//67_67421/",
+        "chapterPath": "/html/body/div/div[6]/div/dl",
+        "titlePath": "/html/body/div[1]/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[5]/div/div[3]"
+    },
+    "www.xs123.net": {
+        "checkUrl": "https://www.xs123.org/xs/17/17205/",
+        "chapterPath": "/html/body/div/div[6]/div",
+        "titlePath": "/html/body/div/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div/div[3]"
+    },
+    "www.xs123.org": {
+        "checkUrl": "https://www.xs123.org/xs/20/20414/",
+        "chapterPath": "/html/body/div/div[6]/div",
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div/div[3]"
+    },
+    "www.bqxs520.com": {
+        "chapterPath": "/html/body/div/div[6]/div/dl",
+        "checkUrl": "http://www.bqxs520.com/103172/",
+        "contentPath": "/html/body/div[1]/div[4]/div"
+    },
+    "www.ibiqu.org": {
+        "checkUrl": "http://www.ibiqu.org/book/8187/",
+        "chapterPath": "/html/body/div/div[5]/div",
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[4]"
+    },
+    "www.dddbiquge.cc": {
+        "chapterPath": "/html/body/div[4]/dl/dd[144]/a",
+        "checkUrl": "https://www.dddbiquge.cc/book/18874/",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]"
+    },
+    "www.qb5.la": {
+        "chapterPath": "/html/body/div[4]",
+        "checkUrl": "https://www.qb5.la/book_15399/",
+        "contentPath": "/html/body/div[3]/div[2]/div[1]"
+    },
+    "w.linovelib.com": {
+        "chapterPath": "/html/body/div[1]/div/div[2]/div[2]/div[1]/ol",
+        "checkUrl": "https://w.linovelib.com/novel/2547/catalog",
+        "titlePath": "/html/body/div[1]/div[2]/div/div[1]",
+        "contentPath": "/html/body/div[1]/div[2]/div/div[2]"
+    },
+    "www.kanunu8.com": {
+        "chapterPath": "/html/body/div[1]/table[9]",
+        "checkUrl": "https://www.kanunu8.com/book3/7593/",
+        "contentPath": "/html/body/div/table[5]/tbody"
+    },
+    "www.81zw.com": {
+        "chapterPath": "/html/body/div/div[4]/div",
+        "checkUrl": "https://www.81zw.com/book/40133/",
+        "contentPath": "/html/body/div/div[4]/div"
+    },
+    "www.biqu5200.net": {
+        "chapterPath": "#list",
+        "checkUrl": "http://www.biqu5200.net/131_131878/",
+        "contentPath": "#content"
+    },
+    "www.ywggzy.com": {
+        "chapterPath": "/html/body/div[3]/div[2]/div",
+        "checkUrl": "http://www.ywggzy.com/bxwx/29320/",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]"
+    },
+    "www.xbiquge.la": {
+        "chapterPath": "/html/body/div/div[5]/div",
+        "checkUrl": "https://www.xbiquge.la/63/63514/",
+        "contentPath": "/html/body/div/div[3]/div/div[3]"
+    },
+    "fanqienovel.com": {
+        "chapterPath": "/html/body/div/div/div/div/div[2]/div",
+        "checkUrl": "https://fanqienovel.com/page/7010984456030784524",
+        "contentPath": "/html/body/div[1]/div/div/div/div[4]"
+    },
+    "www.haonongcunzj.com": {
+        "chapterPath": "/html/body/div[3]/div[2]/div/div[2]",
+        "checkUrl": "http://www.haonongcunzj.com/book/14767/",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[2]"
+    },
+    "www.xiaoshuoba.com": {
+        "chapterPath": "/html/body/div[3]/div[3]/ul/ul/li",
+        "checkUrl": "http://www.xiaoshuoba.com/html/1246/1246865/",
+        "contentPath": "/html/body/div[2]/div[3]div[2]"
+    },
+    "www.42biquge.com": {
+        "chapterPath": "/html/body/div[1]/div[4]/div[2]/div/dl",
+        "checkUrl": "http://www.42biquge.com/book/33955/",
+        "contentPath": "/html/body/div[1]/div[4]/div/div/div[3]"
+    },
+    "www.miaojiang8.net": {
+        "chapterPath": "/html/body/div/div[5]/div",
+        "checkUrl": "https://www.miaojiang8.net/4_4107/",
+        "contentPath": "/html/body/div/div[3]/div/div[3]"
+    },
+    "www.vipkanshu.vip": {
+        "chapterPath": "/html/body/div[3]/div[2]/dl/dd[6]",
+        "checkUrl": "https://www.vipkanshu.vip/shu/31665/",
+        "contentPath": "/html/body/div[3]/div/div[2]/div[3]"
+    },
+    "www.xxbiqudu.com": {
+        "chapterPath": "/html/body/div/div[5]",
+        "checkUrl": "https://www.xxbiqudu.com/133_133821/",
+        "contentPath": "/html/body/div/div[4]/div[2]/div[2]"
+    },
+    "www.9biquge.com": {
+        "chapterPath": "/html/body/div[1]/div[4]/div[2]/div/dl",
+        "checkUrl": "https://www.9biquge.com/29/29894/",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div/div[5]"
+    }
+}
