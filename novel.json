@@ -259,5 +259,10 @@
         "chapterPath": "/html/body/div[1]/div[4]/div[2]/div/dl",
         "checkUrl": "https://www.9biquge.com/29/29894/",
         "contentPath": "/html/body/div[1]/div[4]/div[1]/div/div[5]"
+    },
+    "www.bqg70.com": {
+        "chapterPath": "/html/body/div[5]",
+        "checkUrl": "https://www.bige7.com/book/2749/",
+        "contentPath": "/html/body/div[4]/div[3]/div[3]"
     }
 }
